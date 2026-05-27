@@ -174,8 +174,8 @@ The science and the chaos coexist very peacefully.
 | 🐍 Python | `████████████████░░░░` 80% | ⚔️ Advanced |
 | 🐚 Bash / Linux | `██████████████░░░░░░` 70% | ⚔️ Advanced |
 | 🧬 Structural Biology | `██████████████░░░░░░` 70% | ⚔️ Advanced |
-| 📊 R | `████████████░░░░░░░░` 60% | 🛡️ Intermediate |
-| 🔬 GROMACS / MD | `██████████░░░░░░░░░░` 50% | 🛡️ Intermediate |
+| 📊 R | `███████░░░░░░░░░░░░` 40% | 🛡️ Beginner |
+| 🔬 GROMACS / MD | `████████████████░░░░` 80% | ⚔️ Advanced |
 | 📈 Data Visualization | `████████████████░░░░` 80% | ⚔️ Advanced |
 | 🤖 Machine Learning | `████████░░░░░░░░░░░░` 40% | 🗡️ Grinding XP |
 
@@ -195,9 +195,9 @@ The science and the chaos coexist very peacefully.
     </td>
     <td valign="middle" align="left">
       <sub><b>🟢 &nbsp; NOW PLAYING ON SPOTIFY</b></sub><br/><br/>
-      <b>Blinding Lights</b><br/>
+      <b>After Hours</b><br/>
       <sub>The Weeknd &nbsp;·&nbsp; After Hours &nbsp;·&nbsp; 2020</sub><br/><br/>
-      <sub><code>▶ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3:20</code></sub><br/>
+      <sub><code>▶ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6:01</code></sub><br/>
       <sub>🔀 &nbsp;&nbsp; ⏮ &nbsp;&nbsp; ▶ &nbsp;&nbsp; ⏭ &nbsp;&nbsp; 🔁 &nbsp;&nbsp; ❤️</sub>
     </td>
   </tr>
