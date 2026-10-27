@@ -24,6 +24,22 @@
 
 <br/>
 
+<div align="center">
+
+<a href="https://eswar-mse.github.io">
+  <img src="assets/portfolio-preview.png" alt="Sai Eswar - interactive portfolio" width="100%"/>
+</a>
+
+<br/>
+
+[![Open Portfolio](https://img.shields.io/badge/%E2%86%92%20Open%20the%20interactive%20portfolio-38bdf8?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=38bdf8)](https://eswar-mse.github.io)
+
+<sub>Variant calling · spatial omics · molecular dynamics · full case files, CV and timeline</sub>
+
+</div>
+
+<br/>
+
 ---
 
 <img align="right" width="310" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
