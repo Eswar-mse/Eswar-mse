@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="115" viewBox="0 0 1200 115">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#010402"/>
+      <stop offset="50%" stop-color="#062512"/>
+      <stop offset="100%" stop-color="#010402"/>
+    </linearGradient>
+
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#064e3b" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#10b981" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#064e3b" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="115" rx="14" fill="url(#bg)"/>
+
+  <rect x="1" y="1" width="1198" height="113" rx="13"
+        fill="none" stroke="#14532d" stroke-width="1.5"/>
+
+  <rect x="100" y="106" width="1000" height="2" fill="url(#glow)"/>
+
+  <path d="M28 25 V90 M28 25 H58 M28 90 H58"
+        fill="none" stroke="#10b981" stroke-width="3"/>
+
+  <path d="M1172 25 V90 M1172 25 H1142 M1172 90 H1142"
+        fill="none" stroke="#10b981" stroke-width="3"/>
+
+  <text x="600" y="69"
+        text-anchor="middle"
+        font-family="Orbitron, 'Arial Black', sans-serif"
+        font-size="39"
+        font-weight="900"
+        letter-spacing="0.5"
+        fill="#d1fae5"
+        stroke="#d1fae5"
+        stroke-width="0.35"
+        paint-order="stroke fill">
+    HI THERE, I'M SAI ESWAR
+  </text>
+</svg>
