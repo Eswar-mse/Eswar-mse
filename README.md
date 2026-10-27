@@ -1,24 +1,32 @@
 <div align="center">
 
-<img width="100%" height="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRzMDBjczRyMTFpdHdjd2E0c2hhZTdxY2FyaG8xNHZ4dmE3YWU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wR77d4zcNpkJZv9HV1/giphy.gif"/>
+<img width="100%" height="520" src="./photos/geometric-instagram-959-landscape-1920x1080 (1).png"/>
 <br><br>
 
-# Hi there, I'm Sai Eswar 👋
-</div>
+
+
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:010402,50:031709,100:010402&text=Hi%20there,%20I%27m%20Sai%20Eswar&fontColor=d1fae5&fontSize=30&fontFamily=Orbitron&fontAlign=50&fontAlignY=50&stroke=0b3d20&strokeWidth=0.5"
+  alt="Hi there, I'm Sai Eswar"
+  width="100%"
+/>
+
+
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=14&pause=5000&color=3d6a8a&center=true&vCenter=true&width=700&height=28&lines=MSc+Bioinformatics+%C2%B7+Open+to+Research+%26+Collaboration"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=5000&color=d1fae5&center=true&vCenter=true&width=700&height=28&lines=MSc+Bioinformatics+%C2%B7+Open+to+Research+%26+Collaboration"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Eswar-mse&style=flat-square&color=0d1117&label=profile+views&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Eswar-mse&style=flat-square&color=14532d&label=profile+views&labelColor=020a04)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/saieswarmoparti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b2e14?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/saieswarmoparti)
 &nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-0d1117?style=flat-square&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0005-4635-7368)
+[![ORCID](https://img.shields.io/badge/ORCID-0b2e14?style=flat-square&logo=orcid&logoColor=ffffff)](https://orcid.org/0009-0005-4635-7368)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Eswar-mse)
+[![GitHub](https://img.shields.io/badge/GitHub-0b2e14?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Eswar-mse)
 
 </div>
 
@@ -32,7 +40,7 @@
 
 <br/>
 
-[![Open Portfolio](https://img.shields.io/badge/%E2%86%92%20Open%20the%20interactive%20portfolio-38bdf8?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=38bdf8)](https://sai-eswar-porfolio.netlify.app/)
+[![Open Portfolio](https://img.shields.io/badge/%E2%86%92%20Open%20the%20interactive%20portfolio-14532d?style=for-the-badge&labelColor=020a04&logo=googlechrome&logoColor=ffffff)](https://sai-eswar-porfolio.netlify.app/)
 
 <sub>Variant calling · spatial omics · molecular dynamics · full case files, CV and timeline</sub>
 
@@ -40,7 +48,7 @@
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 
 <img align="right" width="310" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
@@ -58,9 +66,9 @@ I try to build end-to-end computational workflows: from GROMACS trajectory analy
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 
-### Skills & Tooling
+<img src="assets/skills.svg" alt="Skills &amp; Tooling" width="100%"/>
 
 <table>
 <tr>
@@ -68,26 +76,26 @@ I try to build end-to-end computational workflows: from GROMACS trajectory analy
 
 **Languages & Core**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://docs.conda.io)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![PyCharm](https://img.shields.io/badge/PyCharm-00FF00?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Python](https://img.shields.io/badge/Python-0b2e14?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org)
+[![R](https://img.shields.io/badge/R-0b2e14?style=for-the-badge&logo=r&logoColor=ffffff)](https://www.r-project.org)
+[![Bash](https://img.shields.io/badge/Bash-0b2e14?style=for-the-badge&logo=gnubash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Linux-0b2e14?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.linux.org)
+[![Git](https://img.shields.io/badge/Git-0b2e14?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com)
+[![Conda](https://img.shields.io/badge/Conda-0b2e14?style=for-the-badge&logo=anaconda&logoColor=ffffff)](https://docs.conda.io)
+[![Jupyter](https://img.shields.io/badge/Jupyter-0b2e14?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://jupyter.org)
+[![VS Code](https://img.shields.io/badge/VS_Code-0b2e14?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com)
+[![PyCharm](https://img.shields.io/badge/PyCharm-0b2e14?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 
 </td>
 <td valign="top" width="50%">
 
 **Molecular Simulation**
 
-[![GROMACS](https://img.shields.io/badge/GROMACS-00AACC?style=for-the-badge&logoColor=white)](https://www.gromacs.org)
-[![PLUMED](https://img.shields.io/badge/PLUMED-CC0000?style=for-the-badge&logoColor=white)](https://www.plumed.org)
-[![Metadynamics](https://img.shields.io/badge/Metadynamics-7B241C?style=for-the-badge&logoColor=white)](https://www.plumed.org)
-[![MDAnalysis](https://img.shields.io/badge/MDAnalysis-9B30FF?style=for-the-badge&logoColor=white)](https://www.mdanalysis.org)
-[![Schrodinger](https://img.shields.io/badge/Schrodinger-00674F?style=for-the-badge&logoColor=white)](https://www.schrodinger.com/)
+[![GROMACS](https://img.shields.io/badge/GROMACS-14532d?style=for-the-badge&logoColor=ffffff)](https://www.gromacs.org)
+[![PLUMED](https://img.shields.io/badge/PLUMED-14532d?style=for-the-badge&logoColor=ffffff)](https://www.plumed.org)
+[![Metadynamics](https://img.shields.io/badge/Metadynamics-14532d?style=for-the-badge&logoColor=ffffff)](https://www.plumed.org)
+[![MDAnalysis](https://img.shields.io/badge/MDAnalysis-14532d?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
+[![Schrodinger](https://img.shields.io/badge/Schrodinger-14532d?style=for-the-badge&logoColor=ffffff)](https://www.schrodinger.com/)
 
 </td>
 </tr>
@@ -96,29 +104,29 @@ I try to build end-to-end computational workflows: from GROMACS trajectory analy
 
 **Structural Biology**
 
-[![PyMOL](https://img.shields.io/badge/PyMOL-CC0000?style=for-the-badge&logoColor=white)](https://pymol.org)
-[![VMD](https://img.shields.io/badge/VMD-1F4E79?style=for-the-badge&logoColor=white)](https://www.ks.uiuc.edu/Research/vmd/)
-[![ChimeraX](https://img.shields.io/badge/ChimeraX-FF6600?style=for-the-badge&logoColor=white)](https://www.cgl.ucsf.edu/chimerax/)
-[![AlphaFold](https://img.shields.io/badge/AlphaFold-6B46C1?style=for-the-badge&logoColor=white)](https://alphafold.ebi.ac.uk)
-[![Schrödinger](https://img.shields.io/badge/Schrödinger-2D6A9F?style=for-the-badge&logoColor=white)](https://www.schrodinger.com)
-[![fpocket](https://img.shields.io/badge/fpocket-8B4513?style=for-the-badge&logoColor=white)](http://fpocket.sourceforge.net)
-[![Modeller](https://img.shields.io/badge/Modeller-005F87?style=for-the-badge&logoColor=white)](https://salilab.org/modeller/)
-[![Swiss-Model](https://img.shields.io/badge/Swiss--Model-CC3300?style=for-the-badge&logoColor=white)](https://swissmodel.expasy.org)
-[![CABS-Flex](https://img.shields.io/badge/CABS_Flex-00FF00?style=for-the-badge&logoColor=white)](https://lcbio.pl/cabsflex3/)
+[![PyMOL](https://img.shields.io/badge/PyMOL-14532d?style=for-the-badge&logoColor=ffffff)](https://pymol.org)
+[![VMD](https://img.shields.io/badge/VMD-14532d?style=for-the-badge&logoColor=ffffff)](https://www.ks.uiuc.edu/Research/vmd/)
+[![ChimeraX](https://img.shields.io/badge/ChimeraX-14532d?style=for-the-badge&logoColor=ffffff)](https://www.cgl.ucsf.edu/chimerax/)
+[![AlphaFold](https://img.shields.io/badge/AlphaFold-14532d?style=for-the-badge&logoColor=ffffff)](https://alphafold.ebi.ac.uk)
+[![Schrödinger](https://img.shields.io/badge/Schrödinger-14532d?style=for-the-badge&logoColor=ffffff)](https://www.schrodinger.com)
+[![fpocket](https://img.shields.io/badge/fpocket-14532d?style=for-the-badge&logoColor=ffffff)](http://fpocket.sourceforge.net)
+[![Modeller](https://img.shields.io/badge/Modeller-14532d?style=for-the-badge&logoColor=ffffff)](https://salilab.org/modeller/)
+[![Swiss-Model](https://img.shields.io/badge/Swiss--Model-14532d?style=for-the-badge&logoColor=ffffff)](https://swissmodel.expasy.org)
+[![CABS-Flex](https://img.shields.io/badge/CABS_Flex-14532d?style=for-the-badge&logoColor=ffffff)](https://lcbio.pl/cabsflex3/)
 
 </td>
 <td valign="top">
 
 **Network & Advanced Analysis**
 
-[![NetworkX](https://img.shields.io/badge/NetworkX-336699?style=for-the-badge&logoColor=white)](https://networkx.org)
-[![DCCM](https://img.shields.io/badge/DCCM-2C3E50?style=for-the-badge&logoColor=white)](https://www.mdanalysis.org)
-[![gCORR](https://img.shields.io/badge/gCORR-27AE60?style=for-the-badge&logoColor=white)](https://www.mdanalysis.org)
-[![Li-MI](https://img.shields.io/badge/Li--MI-8E44AD?style=for-the-badge&logoColor=white)](https://www.mdanalysis.org)
-[![Dih-MI](https://img.shields.io/badge/Dih--MI-E74C3C?style=for-the-badge&logoColor=white)](https://www.mdanalysis.org)
-[![Transfer Entropy](https://img.shields.io/badge/Transfer_Entropy-16A085?style=for-the-badge&logoColor=white)](https://www.mdanalysis.org)
-[![PRS](https://img.shields.io/badge/PRS-C0392B?style=for-the-badge&logoColor=white)](https://prody.csb.pitt.edu)
-[![HDBSCAN](https://img.shields.io/badge/HDBSCAN-FF6B35?style=for-the-badge&logoColor=white)](https://hdbscan.readthedocs.io)
+[![NetworkX](https://img.shields.io/badge/NetworkX-166534?style=for-the-badge&logoColor=ffffff)](https://networkx.org)
+[![DCCM](https://img.shields.io/badge/DCCM-166534?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
+[![gCORR](https://img.shields.io/badge/gCORR-166534?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
+[![Li-MI](https://img.shields.io/badge/Li--MI-166534?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
+[![Dih-MI](https://img.shields.io/badge/Dih--MI-166534?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
+[![Transfer Entropy](https://img.shields.io/badge/Transfer_Entropy-166534?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
+[![PRS](https://img.shields.io/badge/PRS-166534?style=for-the-badge&logoColor=ffffff)](https://prody.csb.pitt.edu)
+[![HDBSCAN](https://img.shields.io/badge/HDBSCAN-166534?style=for-the-badge&logoColor=ffffff)](https://hdbscan.readthedocs.io)
 
 </td>
 </tr>
@@ -127,26 +135,26 @@ I try to build end-to-end computational workflows: from GROMACS trajectory analy
 
 **Bioinformatics & Databases**
 
-[![NCBI](https://img.shields.io/badge/NCBI-336699?style=for-the-badge&logoColor=white)](https://www.ncbi.nlm.nih.gov)
-[![UniProt](https://img.shields.io/badge/UniProt-0053DB?style=for-the-badge&logoColor=white)](https://www.uniprot.org)
-[![PDB](https://img.shields.io/badge/PDB-003366?style=for-the-badge&logoColor=white)](https://www.rcsb.org)
-[![Ensembl](https://img.shields.io/badge/Ensembl-8B0000?style=for-the-badge&logoColor=white)](https://www.ensembl.org)
-[![ExPASy](https://img.shields.io/badge/ExPASy-CC0000?style=for-the-badge&logoColor=white)](https://www.expasy.org)
-[![STRING](https://img.shields.io/badge/STRING-007700?style=for-the-badge&logoColor=white)](https://string-db.org)
-[![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://biopython.org)
+[![NCBI](https://img.shields.io/badge/NCBI-166534?style=for-the-badge&logoColor=ffffff)](https://www.ncbi.nlm.nih.gov)
+[![UniProt](https://img.shields.io/badge/UniProt-166534?style=for-the-badge&logoColor=ffffff)](https://www.uniprot.org)
+[![PDB](https://img.shields.io/badge/PDB-166534?style=for-the-badge&logoColor=ffffff)](https://www.rcsb.org)
+[![Ensembl](https://img.shields.io/badge/Ensembl-166534?style=for-the-badge&logoColor=ffffff)](https://www.ensembl.org)
+[![ExPASy](https://img.shields.io/badge/ExPASy-166534?style=for-the-badge&logoColor=ffffff)](https://www.expasy.org)
+[![STRING](https://img.shields.io/badge/STRING-166534?style=for-the-badge&logoColor=ffffff)](https://string-db.org)
+[![BioPython](https://img.shields.io/badge/BioPython-166534?style=for-the-badge&logo=python&logoColor=ffffff)](https://biopython.org)
 
 </td>
 <td valign="top">
 
 **Machine Learning & Data**
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)](https://matplotlib.org)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-0b2e14?style=for-the-badge&logo=tensorflow&logoColor=ffffff)](https://www.tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-0b2e14?style=for-the-badge&logo=pytorch&logoColor=ffffff)](https://pytorch.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0b2e14?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)](https://scikit-learn.org)
+[![NumPy](https://img.shields.io/badge/NumPy-0b2e14?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-0b2e14?style=for-the-badge&logo=pandas&logoColor=ffffff)](https://pandas.pydata.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-0b2e14?style=for-the-badge&logoColor=ffffff)](https://matplotlib.org)
+[![Plotly](https://img.shields.io/badge/Plotly-0b2e14?style=for-the-badge&logo=plotly&logoColor=ffffff)](https://plotly.com)
 
 </td>
 </tr>
@@ -162,6 +170,6 @@ I try to build end-to-end computational workflows: from GROMACS trajectory analy
 
 <img align="center" width="310" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV1ZzE1cWZvcW5jZWZocmVldGY1Nm16b2N1cnliNjBlZXM3eWFtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ZFs09coMh2uIz0aWn/giphy.gif"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:060c1a,50:0b1a2e,100:060c1a&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020a04,50:14532d,100:020a04&section=footer"/>
 
 </div>
