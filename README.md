@@ -1,14 +1,9 @@
 <div align="center">
 
-<img width="100%" height="520" src="./photos/geometric-instagram-959-landscape-1920x1080 (1).png"/>
+<img width="100%" height="520" src="./photos/Sai Eswar_ Geometric Motion Study.png"/>
 <br><br>
 
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:010302,45:031b10,100:010302&text=HI%20THERE,%20I%27M%20SAI%20ESWAR&fontColor=7C8A84&fontSize=30&fontFamily=VT323&fontAlign=50&fontAlignY=48&stroke=212121&strokeWidth=1"
-  width="100%"
-  alt="Hi there, I'm Sai Eswar"
-/>
 
 <div align="right">
 
