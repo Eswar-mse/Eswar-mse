@@ -175,7 +175,7 @@ I try to build end-to-end computational workflows: from GROMACS trajectory analy
 
 <br/><br/>
 
-<img align="center" width="310" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV1ZzE1cWZvcW5jZWZocmVldGY1Nm16b2N1cnliNjBlZXM3eWFtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ZFs09coMh2uIz0aWn/giphy.gif"/>
+<img align="center" width="310" src="./photos/geometric-instagram-477-square-1080x1080.png"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020a04,50:14532d,100:020a04&section=footer"/>
 
