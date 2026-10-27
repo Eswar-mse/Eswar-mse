@@ -32,7 +32,7 @@
 
 <br/>
 
-[![Open Portfolio](https://img.shields.io/badge/%E2%86%92%20Open%20the%20interactive%20portfolio-38bdf8?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=38bdf8)](https://eswar-mse.github.io)
+[![Open Portfolio](https://img.shields.io/badge/%E2%86%92%20Open%20the%20interactive%20portfolio-38bdf8?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=38bdf8)](https://sai-eswar-porfolio.netlify.app/)
 
 <sub>Variant calling · spatial omics · molecular dynamics · full case files, CV and timeline</sub>
 
