@@ -9,6 +9,8 @@
 
 `> YOUR WORLD, MY RULES.`
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
+<div>&nbsp;</div>
 </div>
 <div align="center">
 
@@ -44,134 +46,194 @@
 [![Enter My Domain](https://img.shields.io/badge/%E2%9A%94_WITNESS_MY_WORK-052e16?style=for-the-badge&labelColor=22c55e&color=052e16)](https://sai-eswar-porfolio.netlify.app/)
 
 
-<sub>Variant calling · Spatial omics · Molecular dynamics · Python · linux · WES · CLI Tools </sub>
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=12&pause=8000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Variant+Calling+%C2%B7+Spatial+Omics+%C2%B7+Molecular+Dynamics+%C2%B7+Python+%C2%B7+Linux+%C2%B7+WES+%C2%B7+CLI+Tools" alt="Variant Calling · Spatial Omics · Molecular Dynamics · Python · Linux · WES · CLI Tools"/>
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+
 <img align="right" width="310" src="./photos/Masked Scholar’s Molecular Coding Lab.png"/>
 
 **MSc Bioinformatics** student working at the crossroads of structural biology and computation. My research is centred on understanding how proteins move, communicate, and malfunction decoded through molecular dynamics simulations, network-based analysis, and structural characterisation.
 
 I try to build end-to-end computational workflows: from GROMACS trajectory analysis to graph-theoretic models of allosteric communication, with a growing focus on applying ML to structural data.
+<div>&nbsp;</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 
-**Research focus**
-- Conformational exploration · Gromacs · Schrodinger (Desmond)  
-- Enhanced sampling methods · metadynamics · PLUMED · MixMD
-- Protein residue interaction networks · allosteric communication
-- Machine learning in structural biology
 
-**Open to** research collaborations, bioinformatics tool development, MD simulation projects, and open-source scientific software.
+<!-- RESEARCH INTERESTS -->
+
+<div align="center">
+
+<h3>RESEARCH INTERESTS</h3>
+
+<code>STRUCTURE</code> &nbsp;·&nbsp; <code>DYNAMICS</code> &nbsp;·&nbsp; <code>DISCOVERY</code>
+
+</div>
+
+### Molecular Dynamics & Pocketome Analysis
+
+Investigating protein conformational dynamics, transient binding pockets, and cryptic sites through molecular dynamics simulations. Interested in understanding how protein flexibility influences ligand binding, druggability, and potential allosteric regulation.
+
+### Residue Network Analysis & Structural Bioinformatics
+
+Exploring residue-level interaction networks and long-range communication within proteins to identify allosteric pathways, structural dependencies, and the molecular mechanisms underlying protein function.
+
+### Neuroinformatics
+
+Interested in understanding the molecular and systems-level mechanisms underlying neural function and neurological disorders by integrating computational biology, systems-level analysis, and publicly available biological datasets.
+
+### AI & Machine Learning in Bioinformatics
+
+Applying machine learning and data-driven approaches to structural and molecular datasets to identify biological patterns, prioritise candidates, and generate testable hypotheses for computational research.
+
+</div>
+
+
 
 <br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 
-<img src="assets/skills.svg" alt="Skills &amp; Tooling" width="100%"/>
+<!-- SKILLS & TOOLING -->
+<div align="center">
+
+<p><strong>SKILLS &amp; TOOLING</strong></p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=8000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Computational+Biology+%C2%B7+Structural+Analysis+%C2%B7+Data+Science+%C2%B7"/>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Languages & Core**
+<div align="center">
 
-[![Python](https://img.shields.io/badge/Python-0b2e14?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org)
-[![R](https://img.shields.io/badge/R-0b2e14?style=for-the-badge&logo=r&logoColor=ffffff)](https://www.r-project.org)
-[![Bash](https://img.shields.io/badge/Bash-0b2e14?style=for-the-badge&logo=gnubash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
-[![Linux](https://img.shields.io/badge/Linux-0b2e14?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.linux.org)
-[![Git](https://img.shields.io/badge/Git-0b2e14?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com)
-[![Conda](https://img.shields.io/badge/Conda-0b2e14?style=for-the-badge&logo=anaconda&logoColor=ffffff)](https://docs.conda.io)
-[![Jupyter](https://img.shields.io/badge/Jupyter-0b2e14?style=for-the-badge&logo=jupyter&logoColor=ffffff)](https://jupyter.org)
-[![VS Code](https://img.shields.io/badge/VS_Code-0b2e14?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com)
-[![PyCharm](https://img.shields.io/badge/PyCharm-0b2e14?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+<h3>LANGUAGES &amp; CORE</h3>
 
-</td>
-<td valign="top" width="50%">
+</div>
 
-**Molecular Simulation**
-
-[![GROMACS](https://img.shields.io/badge/GROMACS-14532d?style=for-the-badge&logoColor=ffffff)](https://www.gromacs.org)
-[![PLUMED](https://img.shields.io/badge/PLUMED-14532d?style=for-the-badge&logoColor=ffffff)](https://www.plumed.org)
-[![Metadynamics](https://img.shields.io/badge/Metadynamics-14532d?style=for-the-badge&logoColor=ffffff)](https://www.plumed.org)
-[![MDAnalysis](https://img.shields.io/badge/MDAnalysis-14532d?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
-[![Schrodinger](https://img.shields.io/badge/Schrodinger-14532d?style=for-the-badge&logoColor=ffffff)](https://www.schrodinger.com/)
+[![Python](https://img.shields.io/badge/PYTHON-0b2e14?style=for-the-badge&logo=python&logoColor=d1fae5)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-0b2e14?style=for-the-badge&logo=r&logoColor=d1fae5)](https://www.r-project.org/)
+[![Bash](https://img.shields.io/badge/BASH-0b2e14?style=for-the-badge&logo=gnubash&logoColor=d1fae5)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/LINUX-0b2e14?style=for-the-badge&logo=linux&logoColor=d1fae5)](https://kernel.org/)
+[![Git](https://img.shields.io/badge/GIT-0b2e14?style=for-the-badge&logo=git&logoColor=d1fae5)](https://git-scm.com/)
+[![Conda](https://img.shields.io/badge/CONDA-0b2e14?style=for-the-badge&logo=anaconda&logoColor=d1fae5)](https://docs.conda.io/)
+[![Jupyter](https://img.shields.io/badge/JUPYTER-0b2e14?style=for-the-badge&logo=jupyter&logoColor=d1fae5)](https://jupyter.org/)
+[![VS Code](https://img.shields.io/badge/VS_CODE-0b2e14?style=for-the-badge&logo=visualstudiocode&logoColor=d1fae5)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/PYCHARM-0b2e14?style=for-the-badge&logo=pycharm&logoColor=d1fae5)](https://www.jetbrains.com/pycharm/)
 
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**Structural Biology**
+<div align="center">
 
-[![PyMOL](https://img.shields.io/badge/PyMOL-14532d?style=for-the-badge&logoColor=ffffff)](https://pymol.org)
-[![VMD](https://img.shields.io/badge/VMD-14532d?style=for-the-badge&logoColor=ffffff)](https://www.ks.uiuc.edu/Research/vmd/)
-[![ChimeraX](https://img.shields.io/badge/ChimeraX-14532d?style=for-the-badge&logoColor=ffffff)](https://www.cgl.ucsf.edu/chimerax/)
-[![AlphaFold](https://img.shields.io/badge/AlphaFold-14532d?style=for-the-badge&logoColor=ffffff)](https://alphafold.ebi.ac.uk)
-[![Schrödinger](https://img.shields.io/badge/Schrödinger-14532d?style=for-the-badge&logoColor=ffffff)](https://www.schrodinger.com)
-[![fpocket](https://img.shields.io/badge/fpocket-14532d?style=for-the-badge&logoColor=ffffff)](http://fpocket.sourceforge.net)
-[![Modeller](https://img.shields.io/badge/Modeller-14532d?style=for-the-badge&logoColor=ffffff)](https://salilab.org/modeller/)
-[![Swiss-Model](https://img.shields.io/badge/Swiss--Model-14532d?style=for-the-badge&logoColor=ffffff)](https://swissmodel.expasy.org)
-[![CABS-Flex](https://img.shields.io/badge/CABS_Flex-14532d?style=for-the-badge&logoColor=ffffff)](https://lcbio.pl/cabsflex3/)
+<h3>MOLECULAR SIMULATION</h3>
 
-</td>
-<td valign="top">
+</div>
 
-**Network & Advanced Analysis**
-
-[![NetworkX](https://img.shields.io/badge/NetworkX-166534?style=for-the-badge&logoColor=ffffff)](https://networkx.org)
-[![DCCM](https://img.shields.io/badge/DCCM-166534?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
-[![gCORR](https://img.shields.io/badge/gCORR-166534?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
-[![Li-MI](https://img.shields.io/badge/Li--MI-166534?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
-[![Dih-MI](https://img.shields.io/badge/Dih--MI-166534?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
-[![Transfer Entropy](https://img.shields.io/badge/Transfer_Entropy-166534?style=for-the-badge&logoColor=ffffff)](https://www.mdanalysis.org)
-[![PRS](https://img.shields.io/badge/PRS-166534?style=for-the-badge&logoColor=ffffff)](https://prody.csb.pitt.edu)
-[![HDBSCAN](https://img.shields.io/badge/HDBSCAN-166534?style=for-the-badge&logoColor=ffffff)](https://hdbscan.readthedocs.io)
+[![GROMACS](https://img.shields.io/badge/GROMACS-14532d?style=for-the-badge)](https://www.gromacs.org/)
+[![PLUMED](https://img.shields.io/badge/PLUMED-14532d?style=for-the-badge)](https://www.plumed.org/)
+[![MDAnalysis](https://img.shields.io/badge/MDANALYSIS-14532d?style=for-the-badge)](https://www.mdanalysis.org/)
+[![Metadynamics](https://img.shields.io/badge/METADYNAMICS-14532d?style=for-the-badge)](https://www.plumed.org/)
+[![Schrödinger](https://img.shields.io/badge/SCHR%C3%96DINGER-14532d?style=for-the-badge)](https://www.schrodinger.com/)
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**Bioinformatics & Databases**
+<div align="center">
 
-[![NCBI](https://img.shields.io/badge/NCBI-166534?style=for-the-badge&logoColor=ffffff)](https://www.ncbi.nlm.nih.gov)
-[![UniProt](https://img.shields.io/badge/UniProt-166534?style=for-the-badge&logoColor=ffffff)](https://www.uniprot.org)
-[![PDB](https://img.shields.io/badge/PDB-166534?style=for-the-badge&logoColor=ffffff)](https://www.rcsb.org)
-[![Ensembl](https://img.shields.io/badge/Ensembl-166534?style=for-the-badge&logoColor=ffffff)](https://www.ensembl.org)
-[![ExPASy](https://img.shields.io/badge/ExPASy-166534?style=for-the-badge&logoColor=ffffff)](https://www.expasy.org)
-[![STRING](https://img.shields.io/badge/STRING-166534?style=for-the-badge&logoColor=ffffff)](https://string-db.org)
-[![BioPython](https://img.shields.io/badge/BioPython-166534?style=for-the-badge&logo=python&logoColor=ffffff)](https://biopython.org)
+<h3>STRUCTURAL BIOINFORMATICS</h3>
+
+</div>
+
+[![PyMOL](https://img.shields.io/badge/PYMOL-166534?style=for-the-badge)](https://pymol.org/)
+[![VMD](https://img.shields.io/badge/VMD-166534?style=for-the-badge)](https://www.ks.uiuc.edu/Research/vmd/)
+[![ChimeraX](https://img.shields.io/badge/CHIMERAX-166534?style=for-the-badge)](https://www.cgl.ucsf.edu/chimerax/)
+[![AlphaFold](https://img.shields.io/badge/ALPHAFOLD-166534?style=for-the-badge)](https://alphafold.ebi.ac.uk/)
+[![fpocket](https://img.shields.io/badge/FPOCKET-166534?style=for-the-badge)](http://fpocket.sourceforge.net/)
+[![MODELLER](https://img.shields.io/badge/MODELLER-166534?style=for-the-badge)](https://salilab.org/modeller/)
+[![SWISS--MODEL](https://img.shields.io/badge/SWISS--MODEL-166534?style=for-the-badge)](https://swissmodel.expasy.org/)
+[![CABS--Flex](https://img.shields.io/badge/CABS--FLEX-166534?style=for-the-badge)](https://lcbio.pl/cabsflex3/)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-**Machine Learning & Data**
+<div align="center">
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-0b2e14?style=for-the-badge&logo=tensorflow&logoColor=ffffff)](https://www.tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-0b2e14?style=for-the-badge&logo=pytorch&logoColor=ffffff)](https://pytorch.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-0b2e14?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)](https://scikit-learn.org)
-[![NumPy](https://img.shields.io/badge/NumPy-0b2e14?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-0b2e14?style=for-the-badge&logo=pandas&logoColor=ffffff)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-0b2e14?style=for-the-badge&logoColor=ffffff)](https://matplotlib.org)
-[![Plotly](https://img.shields.io/badge/Plotly-0b2e14?style=for-the-badge&logo=plotly&logoColor=ffffff)](https://plotly.com)
+<h3>NETWORK &amp; ADVANCED ANALYSIS</h3>
+
+</div>
+
+[![NetworkX](https://img.shields.io/badge/NETWORKX-14532d?style=for-the-badge)](https://networkx.org/)
+[![DCCM](https://img.shields.io/badge/DCCM-14532d?style=for-the-badge)](https://www.mdanalysis.org/)
+[![gCorr](https://img.shields.io/badge/GCORR-14532d?style=for-the-badge)](https://www.mdanalysis.org/)
+[![LMI](https://img.shields.io/badge/LMI-14532d?style=for-the-badge)](https://www.mdanalysis.org/)
+[![Dihedral MI](https://img.shields.io/badge/DIHEDRAL_MI-14532d?style=for-the-badge)](https://www.mdanalysis.org/)
+[![Transfer Entropy](https://img.shields.io/badge/TRANSFER_ENTROPY-14532d?style=for-the-badge)](https://en.wikipedia.org/wiki/Transfer_entropy)
+[![PRS](https://img.shields.io/badge/PRODY_PRS-14532d?style=for-the-badge)](https://prody.csb.pitt.edu/)
+[![HDBSCAN](https://img.shields.io/badge/HDBSCAN-14532d?style=for-the-badge)](https://hdbscan.readthedocs.io/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h3>BIOINFORMATICS &amp; DATABASES</h3>
+
+</div>
+
+[![NCBI](https://img.shields.io/badge/NCBI-0b2e14?style=for-the-badge)](https://www.ncbi.nlm.nih.gov/)
+[![UniProt](https://img.shields.io/badge/UNIPROT-0b2e14?style=for-the-badge)](https://www.uniprot.org/)
+[![PDB](https://img.shields.io/badge/RCSB_PDB-0b2e14?style=for-the-badge)](https://www.rcsb.org/)
+[![Ensembl](https://img.shields.io/badge/ENSEMBL-0b2e14?style=for-the-badge)](https://www.ensembl.org/)
+[![ExPASy](https://img.shields.io/badge/EXPASY-0b2e14?style=for-the-badge)](https://www.expasy.org/)
+[![STRING](https://img.shields.io/badge/STRING-0b2e14?style=for-the-badge)](https://string-db.org/)
+[![Biopython](https://img.shields.io/badge/BIOPYTHON-0b2e14?style=for-the-badge&logo=python&logoColor=d1fae5)](https://biopython.org/)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h3>MACHINE LEARNING &amp; DATA</h3>
+
+</div>
+
+[![TensorFlow](https://img.shields.io/badge/TENSORFLOW-166534?style=for-the-badge&logo=tensorflow&logoColor=d1fae5)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PYTORCH-166534?style=for-the-badge&logo=pytorch&logoColor=d1fae5)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-166534?style=for-the-badge&logo=scikitlearn&logoColor=d1fae5)](https://scikit-learn.org/)
+[![NumPy](https://img.shields.io/badge/NUMPY-166534?style=for-the-badge&logo=numpy&logoColor=d1fae5)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/PANDAS-166534?style=for-the-badge&logo=pandas&logoColor=d1fae5)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-166534?style=for-the-badge)](https://matplotlib.org/)
+[![Plotly](https://img.shields.io/badge/PLOTLY-166534?style=for-the-badge&logo=plotly&logoColor=d1fae5)](https://plotly.com/)
 
 </td>
 </tr>
 </table>
 
-
-
 <div align="center">
 
-<sub>When the simulations are queued — CODM (ranked, and it's a problem 🎮), films across every genre, and research papers I read voluntarily. The chaos is very intentional.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=8000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Tools+are+instruments+%C2%B7+Biological+insight+is+the+objective%C2%B7"/>
 
-<br/><br/>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 
-<img align="center" width="310" src="./photos/geometric-instagram-477-square-1080x1080.png"/>
+<div align="center">
+<div>&nbsp;</div>
+Even the pursuit of scientific supremacy must occasionally pause for ranked warfare, cinematic indulgence, and the observation of lesser minds behaving predictably.
+<div>&nbsp;</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020a04,50:14532d,100:020a04&section=footer"/>
+<img width="550" src="./photos/Masked Researcher’s Midnight Workstation.png" alt="Emerald masked scholar"/>
 
 </div>
