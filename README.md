@@ -5,7 +5,7 @@
 
 
 
-<div align="right">
+<div align="center">
 
 `> YOUR WORLD, MY RULES.`
 
@@ -14,7 +14,7 @@
 </div>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=5000&color=d1fae5&center=true&vCenter=true&width=700&height=28&lines=MSc+Bioinformatics+%C2%B7+Open+to+Research+%26+Collaboration"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=15000&color=d1fae5&center=true&vCenter=true&width=700&height=28&lines=MSc+Bioinformatics+%C2%B7+Open+to+Research+%26+Collaboration"/>
 
 <br/>
 
@@ -35,18 +35,16 @@
 <div align="center">
 
 <a href="https://eswar-mse.github.io">
-  <img src="portfolio-preview.png" alt="Sai Eswar - interactive portfolio" width="100%"/>
+  <img src="github-banner-site.png" alt="Sai Eswar - interactive portfolio" width="100%"/>
 </a>
 
 <br/>
 
 
+[![⌘ ENTER THE DOMAIN ↗](https://img.shields.io/badge/%E2%8C%98_ENTER_THE_DOMAIN_%E2%86%97-052e16?style=for-the-badge&labelColor=166534&color=052e16)](https://sai-eswar-g-porfolio.netlify.app/)
 
 
-[![Enter My Domain](https://img.shields.io/badge/%E2%9A%94_WITNESS_MY_WORK-052e16?style=for-the-badge&labelColor=22c55e&color=052e16)](https://sai-eswar-porfolio.netlify.app/)
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=12&pause=8000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Variant+Calling+%C2%B7+Spatial+Omics+%C2%B7+Molecular+Dynamics+%C2%B7+Python+%C2%B7+Linux+%C2%B7+WES+%C2%B7+CLI+Tools" alt="Variant Calling · Spatial Omics · Molecular Dynamics · Python · Linux · WES · CLI Tools"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=12&pause=15000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Variant+Calling+%C2%B7+Spatial+Omics+%C2%B7+Molecular+Dynamics+%C2%B7+Python+%C2%B7+Linux+%C2%B7+WES+%C2%B7+CLI+Tools" alt="Variant Calling · Spatial Omics · Molecular Dynamics · Python · Linux · WES · CLI Tools"/>
 </div>
 
 <br/>
@@ -103,7 +101,7 @@ Applying machine learning and data-driven approaches to structural and molecular
 <div align="center">
 
 <p><strong>SKILLS &amp; TOOLING</strong></p>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=8000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Computational+Biology+%C2%B7+Structural+Analysis+%C2%B7+Data+Science+%C2%B7"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=15000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Computational+Biology+%C2%B7+Structural+Analysis+%C2%B7+Data+Science+%C2%B7"/>
 
 </div>
 
@@ -224,16 +222,22 @@ Applying machine learning and data-driven approaches to structural and molecular
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=8000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Tools+are+instruments+%C2%B7+Biological+insight+is+the+objective%C2%B7"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=15000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Tools+are+instruments+%C2%B7+Biological+insight+is+the+objective%C2%B7"/>
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 
 <div align="center">
-<div>&nbsp;</div>
-Even the pursuit of scientific supremacy must occasionally pause for ranked warfare, cinematic indulgence, and the observation of lesser minds behaving predictably.
-<div>&nbsp;</div>
 
-<img width="550" src="./photos/Masked Researcher’s Midnight Workstation.png" alt="Emerald masked scholar"/>
+*Even the pursuit of scientific supremacy must occasionally pause for ranked warfare, cinematic indulgence, and the observation of lesser minds behaving predictably.*
+
+<br/>
+
+<img
+  width="650"
+  src="./photos/Masked%20Researcher%E2%80%99s%20Midnight%20Workstation.png"
+  alt="Emerald masked researcher at a workstation"
+/>
 
 </div>
+
