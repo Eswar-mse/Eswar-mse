@@ -57,7 +57,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 
-<img align="right" width="310" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<img align="right" width="310" src="./photos/Masked Scholar’s Molecular Coding Lab.png"/>
 
 **MSc Bioinformatics** student working at the crossroads of structural biology and computation. My research is centred on understanding how proteins move, communicate, and malfunction decoded through molecular dynamics simulations, network-based analysis, and structural characterisation.
 
