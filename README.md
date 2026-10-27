@@ -27,7 +27,7 @@
 <div align="center">
 
 <a href="https://eswar-mse.github.io">
-  <img src="assets/portfolio-preview.png" alt="Sai Eswar - interactive portfolio" width="100%"/>
+  <img src="portfolio-preview.png" alt="Sai Eswar - interactive portfolio" width="100%"/>
 </a>
 
 <br/>
