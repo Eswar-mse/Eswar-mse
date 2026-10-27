@@ -41,7 +41,7 @@
 <br/>
 
 
-[![⌘ ENTER THE DOMAIN ↗](https://img.shields.io/badge/%E2%8C%98_ENTER_THE_DOMAIN_%E2%86%97-052e16?style=for-the-badge&labelColor=166534&color=052e16)](https://sai-eswar-g-porfolio.netlify.app/)
+[![⌘ ENTER THE DOMAIN ↗](https://img.shields.io/badge/%E2%8C%98_ENTER_THE_DOMAIN_%E2%86%97-052e16?style=for-the-badge&labelColor=166534&color=052e16)](https://sai-eswar-g-portfolio.netlify.app/)
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=12&pause=15000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Variant+Calling+%C2%B7+Spatial+Omics+%C2%B7+Molecular+Dynamics+%C2%B7+Python+%C2%B7+Linux+%C2%B7+WES+%C2%B7+CLI+Tools" alt="Variant Calling · Spatial Omics · Molecular Dynamics · Python · Linux · WES · CLI Tools"/>
