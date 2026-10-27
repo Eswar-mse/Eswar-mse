@@ -4,29 +4,32 @@
 <br><br>
 
 
-
-
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:010402,50:031709,100:010402&text=Hi%20there,%20I%27m%20Sai%20Eswar&fontColor=d1fae5&fontSize=30&fontFamily=Orbitron&fontAlign=50&fontAlignY=50&stroke=0b3d20&strokeWidth=0.5"
-  alt="Hi there, I'm Sai Eswar"
+  src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:010302,45:031b10,100:010302&text=HI%20THERE,%20I%27M%20SAI%20ESWAR&fontColor=7C8A84&fontSize=30&fontFamily=VT323&fontAlign=50&fontAlignY=48&stroke=212121&strokeWidth=1"
   width="100%"
+  alt="Hi there, I'm Sai Eswar"
 />
 
+<div align="right">
 
+`> YOUR WORLD, MY RULES.`
 
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=5000&color=d1fae5&center=true&vCenter=true&width=700&height=28&lines=MSc+Bioinformatics+%C2%B7+Open+to+Research+%26+Collaboration"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Eswar-mse&style=flat-square&color=14532d&label=profile+views&labelColor=020a04)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b2e14?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/saieswarmoparti)
+
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-185-0b2e14?style=flat-square&labelColor=0b2e14&color=0b2e14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b2e14?style=flat-square&logo=linkedin&logoColor=34d399)](https://www.linkedin.com/in/saieswarmoparti)
 &nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-0b2e14?style=flat-square&logo=orcid&logoColor=ffffff)](https://orcid.org/0009-0005-4635-7368)
+[![ORCID](https://img.shields.io/badge/ORCID-0b2e14?style=flat-square&logo=orcid&logoColor=34d399)](https://orcid.org/0009-0005-4635-7368)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0b2e14?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Eswar-mse)
+[![GitHub](https://img.shields.io/badge/GitHub-0b2e14?style=flat-square&logo=github&logoColor=34d399)](https://github.com/Eswar-mse)
+
 
 </div>
 
@@ -40,9 +43,13 @@
 
 <br/>
 
-[![Open Portfolio](https://img.shields.io/badge/%E2%86%92%20Open%20the%20interactive%20portfolio-14532d?style=for-the-badge&labelColor=020a04&logo=googlechrome&logoColor=ffffff)](https://sai-eswar-porfolio.netlify.app/)
 
-<sub>Variant calling · spatial omics · molecular dynamics · full case files, CV and timeline</sub>
+
+
+[![Enter My Domain](https://img.shields.io/badge/%E2%9A%94_WITNESS_MY_WORK-052e16?style=for-the-badge&labelColor=22c55e&color=052e16)](https://sai-eswar-porfolio.netlify.app/)
+
+
+<sub>Variant calling · Spatial omics · Molecular dynamics · Python · linux · WES · CLI Tools </sub>
 
 </div>
 
