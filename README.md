@@ -3,8 +3,9 @@
 <img width="100%" src="https://raw.githubusercontent.com/Eswar-mse/Eswar-mse/main/photos/banner.gif" alt="banner"/>
 <br><br>
 
-
-`> HEY, THIS IS SAI ESWAR.`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=100000&color=0B8A3E&center=true&vCenter=true&width=900&height=80&lines=HEY,+THIS+IS+SAI+ESWAR" alt="HEY, THIS IS SAI ESWAR"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 <div>&nbsp;</div>
