@@ -1,13 +1,10 @@
 <div align="center">
 
-<img width="100%" height="520" src="./photos/Sai Eswar_ Geometric Motion Study.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/Eswar-mse/Eswar-mse/main/photos/banner.gif" alt="banner"/>
 <br><br>
 
 
-
-<div align="center">
-
-`> YOUR WORLD, MY RULES.`
+`> HEY, THIS IS SAI ESWAR.`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 <div>&nbsp;</div>
