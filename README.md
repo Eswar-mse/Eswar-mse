@@ -69,7 +69,7 @@ I try to build end-to-end computational workflows: from GROMACS trajectory analy
 
 <code>STRUCTURE</code> &nbsp;·&nbsp; <code>DYNAMICS</code> &nbsp;·&nbsp; <code>DISCOVERY</code>
 
-</div>
+
 
 ### Molecular Dynamics & Pocketome Analysis
 
