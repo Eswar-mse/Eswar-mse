@@ -18,7 +18,7 @@
 
 
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-185-0b2e14?style=flat-square&labelColor=0b2e14&color=0b2e14)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1085-0b2e14?style=flat-square&labelColor=0b2e14&color=0b2e14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b2e14?style=flat-square&logo=linkedin&logoColor=34d399)](https://www.linkedin.com/in/saieswarmoparti)
 &nbsp;
 [![ORCID](https://img.shields.io/badge/ORCID-0b2e14?style=flat-square&logo=orcid&logoColor=34d399)](https://orcid.org/0009-0005-4635-7368)
