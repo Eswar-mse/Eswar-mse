@@ -1,30 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Eswar-mse/Eswar-mse/main/photos/banner.gif" alt="banner"/>
+<img width="100%" src="midnight_coding.gif" alt="banner"/>
 <br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=100000&color=0B8A3E&center=true&vCenter=true&width=900&height=80&lines=HEY,+THIS+IS+SAI+ESWAR" alt="HEY, THIS IS SAI ESWAR"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=100000&color=E4E4E7&center=true&vCenter=true&width=900&height=80&lines=HEY,+THIS+IS+SAI+ESWAR" alt="HEY, THIS IS SAI ESWAR"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d0d0d,50:52525b,100:0d0d0d" alt="" width="100%"/>
 <div>&nbsp;</div>
 </div>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=15000&color=d1fae5&center=true&vCenter=true&width=700&height=28&lines=MSc+Bioinformatics+%C2%B7+Open+to+Research+%26+Collaboration"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=15000&color=d4d4d8&center=true&vCenter=true&width=700&height=28&lines=MSc+Bioinformatics+%C2%B7+Open+to+Research+%26+Collaboration"/>
 
 <br/>
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Eswar-mse&color=34d399)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b2e14?style=flat-square&logo=linkedin&logoColor=34d399)](https://www.linkedin.com/in/saieswarmoparti)
+![Profile Views](https://komarev.com/ghpvc/?username=Eswar-mse&color=a1a1aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=a1a1aa)](https://www.linkedin.com/in/saieswarmoparti)
 &nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-0b2e14?style=flat-square&logo=orcid&logoColor=34d399)](https://orcid.org/0009-0005-4635-7368)
+[![ORCID](https://img.shields.io/badge/ORCID-18181b?style=flat-square&logo=orcid&logoColor=a1a1aa)](https://orcid.org/0009-0005-4635-7368)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0b2e14?style=flat-square&logo=github&logoColor=34d399)](https://github.com/Eswar-mse)
-
+[![GitHub](https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=a1a1aa)](https://github.com/Eswar-mse)
 
 </div>
 
@@ -32,14 +29,14 @@
 
 <div align="center">
 
-[![⌘ ENTER THE DOMAIN ↗](https://img.shields.io/badge/%E2%8C%98_ENTER_THE_DOMAIN_%E2%86%97-052e16?style=for-the-badge&labelColor=166534&color=052e16)](https://sai-eswar-porfolio.netlify.app/)
+[![⌘ ENTER THE DOMAIN ↗](https://img.shields.io/badge/%E2%8C%98_ENTER_THE_DOMAIN_%E2%86%97-0a0a0a?style=for-the-badge&labelColor=3f3f46&color=0a0a0a)](https://sai-eswar-porfolio.netlify.app/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=12&pause=15000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Variant+Calling+%C2%B7+Spatial+Omics+%C2%B7+Molecular+Dynamics+%C2%B7+Python+%C2%B7+Linux+%C2%B7+WES+%C2%B7+CLI+Tools" alt="Variant Calling · Spatial Omics · Molecular Dynamics · Python · Linux · WES · CLI Tools"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=12&pause=15000&color=d4d4d8&center=true&vCenter=true&width=1000&height=28&lines=Variant+Calling+%C2%B7+Spatial+Omics+%C2%B7+Molecular+Dynamics+%C2%B7+Python+%C2%B7+Linux+%C2%B7+WES+%C2%B7+CLI+Tools" alt="Variant Calling · Spatial Omics · Molecular Dynamics · Python · Linux · WES · CLI Tools"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d0d0d,50:52525b,100:0d0d0d" alt="" width="100%"/>
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -50,7 +47,7 @@
 
 I try to build end-to-end computational workflows: from GROMACS trajectory analysis to graph-theoretic models of allosteric communication, with a growing focus on applying ML to structural data.
 <div>&nbsp;</div>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d0d0d,50:52525b,100:0d0d0d" alt="" width="100%"/>
 
 
 <!-- RESEARCH INTERESTS -->
@@ -85,13 +82,13 @@ Applying machine learning and data-driven approaches to structural and molecular
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d0d0d,50:52525b,100:0d0d0d" alt="" width="100%"/>
 
 <!-- SKILLS & TOOLING -->
 <div align="center">
 
 <p><strong>SKILLS &amp; TOOLING</strong></p>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=15000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Computational+Biology+%C2%B7+Structural+Analysis+%C2%B7+Data+Science+%C2%B7"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=15000&color=d4d4d8&center=true&vCenter=true&width=1000&height=28&lines=Computational+Biology+%C2%B7+Structural+Analysis+%C2%B7+Data+Science+%C2%B7"/>
 
 </div>
 
@@ -107,15 +104,15 @@ Applying machine learning and data-driven approaches to structural and molecular
 
 </div>
 
-[![Python](https://img.shields.io/badge/PYTHON-0b2e14?style=for-the-badge&logo=python&logoColor=d1fae5)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-0b2e14?style=for-the-badge&logo=r&logoColor=d1fae5)](https://www.r-project.org/)
-[![Bash](https://img.shields.io/badge/BASH-0b2e14?style=for-the-badge&logo=gnubash&logoColor=d1fae5)](https://www.gnu.org/software/bash/)
-[![Linux](https://img.shields.io/badge/LINUX-0b2e14?style=for-the-badge&logo=linux&logoColor=d1fae5)](https://kernel.org/)
-[![Git](https://img.shields.io/badge/GIT-0b2e14?style=for-the-badge&logo=git&logoColor=d1fae5)](https://git-scm.com/)
-[![Conda](https://img.shields.io/badge/CONDA-0b2e14?style=for-the-badge&logo=anaconda&logoColor=d1fae5)](https://docs.conda.io/)
-[![Jupyter](https://img.shields.io/badge/JUPYTER-0b2e14?style=for-the-badge&logo=jupyter&logoColor=d1fae5)](https://jupyter.org/)
-[![VS Code](https://img.shields.io/badge/VS_CODE-0b2e14?style=for-the-badge&logo=visualstudiocode&logoColor=d1fae5)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/PYCHARM-0b2e14?style=for-the-badge&logo=pycharm&logoColor=d1fae5)](https://www.jetbrains.com/pycharm/)
+[![Python](https://img.shields.io/badge/PYTHON-18181b?style=for-the-badge&logo=python&logoColor=d4d4d8)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-18181b?style=for-the-badge&logo=r&logoColor=d4d4d8)](https://www.r-project.org/)
+[![Bash](https://img.shields.io/badge/BASH-18181b?style=for-the-badge&logo=gnubash&logoColor=d4d4d8)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/LINUX-18181b?style=for-the-badge&logo=linux&logoColor=d4d4d8)](https://kernel.org/)
+[![Git](https://img.shields.io/badge/GIT-18181b?style=for-the-badge&logo=git&logoColor=d4d4d8)](https://git-scm.com/)
+[![Conda](https://img.shields.io/badge/CONDA-18181b?style=for-the-badge&logo=anaconda&logoColor=d4d4d8)](https://docs.conda.io/)
+[![Jupyter](https://img.shields.io/badge/JUPYTER-18181b?style=for-the-badge&logo=jupyter&logoColor=d4d4d8)](https://jupyter.org/)
+[![VS Code](https://img.shields.io/badge/VS_CODE-18181b?style=for-the-badge&logo=visualstudiocode&logoColor=d4d4d8)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/PYCHARM-18181b?style=for-the-badge&logo=pycharm&logoColor=d4d4d8)](https://www.jetbrains.com/pycharm/)
 
 </td>
 <td width="50%" valign="top">
@@ -126,11 +123,11 @@ Applying machine learning and data-driven approaches to structural and molecular
 
 </div>
 
-[![GROMACS](https://img.shields.io/badge/GROMACS-14532d?style=for-the-badge)](https://www.gromacs.org/)
-[![PLUMED](https://img.shields.io/badge/PLUMED-14532d?style=for-the-badge)](https://www.plumed.org/)
-[![MDAnalysis](https://img.shields.io/badge/MDANALYSIS-14532d?style=for-the-badge)](https://www.mdanalysis.org/)
-[![Metadynamics](https://img.shields.io/badge/METADYNAMICS-14532d?style=for-the-badge)](https://www.plumed.org/)
-[![Schrödinger](https://img.shields.io/badge/SCHR%C3%96DINGER-14532d?style=for-the-badge)](https://www.schrodinger.com/)
+[![GROMACS](https://img.shields.io/badge/GROMACS-27272a?style=for-the-badge)](https://www.gromacs.org/)
+[![PLUMED](https://img.shields.io/badge/PLUMED-27272a?style=for-the-badge)](https://www.plumed.org/)
+[![MDAnalysis](https://img.shields.io/badge/MDANALYSIS-27272a?style=for-the-badge)](https://www.mdanalysis.org/)
+[![Metadynamics](https://img.shields.io/badge/METADYNAMICS-27272a?style=for-the-badge)](https://www.plumed.org/)
+[![Schrödinger](https://img.shields.io/badge/SCHR%C3%96DINGER-27272a?style=for-the-badge)](https://www.schrodinger.com/)
 
 </td>
 </tr>
@@ -143,14 +140,14 @@ Applying machine learning and data-driven approaches to structural and molecular
 
 </div>
 
-[![PyMOL](https://img.shields.io/badge/PYMOL-166534?style=for-the-badge)](https://pymol.org/)
-[![VMD](https://img.shields.io/badge/VMD-166534?style=for-the-badge)](https://www.ks.uiuc.edu/Research/vmd/)
-[![ChimeraX](https://img.shields.io/badge/CHIMERAX-166534?style=for-the-badge)](https://www.cgl.ucsf.edu/chimerax/)
-[![AlphaFold](https://img.shields.io/badge/ALPHAFOLD-166534?style=for-the-badge)](https://alphafold.ebi.ac.uk/)
-[![fpocket](https://img.shields.io/badge/FPOCKET-166534?style=for-the-badge)](http://fpocket.sourceforge.net/)
-[![MODELLER](https://img.shields.io/badge/MODELLER-166534?style=for-the-badge)](https://salilab.org/modeller/)
-[![SWISS--MODEL](https://img.shields.io/badge/SWISS--MODEL-166534?style=for-the-badge)](https://swissmodel.expasy.org/)
-[![CABS--Flex](https://img.shields.io/badge/CABS--FLEX-166534?style=for-the-badge)](https://lcbio.pl/cabsflex3/)
+[![PyMOL](https://img.shields.io/badge/PYMOL-3f3f46?style=for-the-badge)](https://pymol.org/)
+[![VMD](https://img.shields.io/badge/VMD-3f3f46?style=for-the-badge)](https://www.ks.uiuc.edu/Research/vmd/)
+[![ChimeraX](https://img.shields.io/badge/CHIMERAX-3f3f46?style=for-the-badge)](https://www.cgl.ucsf.edu/chimerax/)
+[![AlphaFold](https://img.shields.io/badge/ALPHAFOLD-3f3f46?style=for-the-badge)](https://alphafold.ebi.ac.uk/)
+[![fpocket](https://img.shields.io/badge/FPOCKET-3f3f46?style=for-the-badge)](http://fpocket.sourceforge.net/)
+[![MODELLER](https://img.shields.io/badge/MODELLER-3f3f46?style=for-the-badge)](https://salilab.org/modeller/)
+[![SWISS--MODEL](https://img.shields.io/badge/SWISS--MODEL-3f3f46?style=for-the-badge)](https://swissmodel.expasy.org/)
+[![CABS--Flex](https://img.shields.io/badge/CABS--FLEX-3f3f46?style=for-the-badge)](https://lcbio.pl/cabsflex3/)
 
 </td>
 <td width="50%" valign="top">
@@ -161,14 +158,14 @@ Applying machine learning and data-driven approaches to structural and molecular
 
 </div>
 
-[![NetworkX](https://img.shields.io/badge/NETWORKX-14532d?style=for-the-badge)](https://networkx.org/)
-[![DCCM](https://img.shields.io/badge/DCCM-14532d?style=for-the-badge)](https://www.mdanalysis.org/)
-[![gCorr](https://img.shields.io/badge/GCORR-14532d?style=for-the-badge)](https://www.mdanalysis.org/)
-[![LMI](https://img.shields.io/badge/LMI-14532d?style=for-the-badge)](https://www.mdanalysis.org/)
-[![Dihedral MI](https://img.shields.io/badge/DIHEDRAL_MI-14532d?style=for-the-badge)](https://www.mdanalysis.org/)
-[![Transfer Entropy](https://img.shields.io/badge/TRANSFER_ENTROPY-14532d?style=for-the-badge)](https://en.wikipedia.org/wiki/Transfer_entropy)
-[![PRS](https://img.shields.io/badge/PRODY_PRS-14532d?style=for-the-badge)](https://prody.csb.pitt.edu/)
-[![HDBSCAN](https://img.shields.io/badge/HDBSCAN-14532d?style=for-the-badge)](https://hdbscan.readthedocs.io/)
+[![NetworkX](https://img.shields.io/badge/NETWORKX-27272a?style=for-the-badge)](https://networkx.org/)
+[![DCCM](https://img.shields.io/badge/DCCM-27272a?style=for-the-badge)](https://www.mdanalysis.org/)
+[![gCorr](https://img.shields.io/badge/GCORR-27272a?style=for-the-badge)](https://www.mdanalysis.org/)
+[![LMI](https://img.shields.io/badge/LMI-27272a?style=for-the-badge)](https://www.mdanalysis.org/)
+[![Dihedral MI](https://img.shields.io/badge/DIHEDRAL_MI-27272a?style=for-the-badge)](https://www.mdanalysis.org/)
+[![Transfer Entropy](https://img.shields.io/badge/TRANSFER_ENTROPY-27272a?style=for-the-badge)](https://en.wikipedia.org/wiki/Transfer_entropy)
+[![PRS](https://img.shields.io/badge/PRODY_PRS-27272a?style=for-the-badge)](https://prody.csb.pitt.edu/)
+[![HDBSCAN](https://img.shields.io/badge/HDBSCAN-27272a?style=for-the-badge)](https://hdbscan.readthedocs.io/)
 
 </td>
 </tr>
@@ -181,13 +178,13 @@ Applying machine learning and data-driven approaches to structural and molecular
 
 </div>
 
-[![NCBI](https://img.shields.io/badge/NCBI-0b2e14?style=for-the-badge)](https://www.ncbi.nlm.nih.gov/)
-[![UniProt](https://img.shields.io/badge/UNIPROT-0b2e14?style=for-the-badge)](https://www.uniprot.org/)
-[![PDB](https://img.shields.io/badge/RCSB_PDB-0b2e14?style=for-the-badge)](https://www.rcsb.org/)
-[![Ensembl](https://img.shields.io/badge/ENSEMBL-0b2e14?style=for-the-badge)](https://www.ensembl.org/)
-[![ExPASy](https://img.shields.io/badge/EXPASY-0b2e14?style=for-the-badge)](https://www.expasy.org/)
-[![STRING](https://img.shields.io/badge/STRING-0b2e14?style=for-the-badge)](https://string-db.org/)
-[![Biopython](https://img.shields.io/badge/BIOPYTHON-0b2e14?style=for-the-badge&logo=python&logoColor=d1fae5)](https://biopython.org/)
+[![NCBI](https://img.shields.io/badge/NCBI-18181b?style=for-the-badge)](https://www.ncbi.nlm.nih.gov/)
+[![UniProt](https://img.shields.io/badge/UNIPROT-18181b?style=for-the-badge)](https://www.uniprot.org/)
+[![PDB](https://img.shields.io/badge/RCSB_PDB-18181b?style=for-the-badge)](https://www.rcsb.org/)
+[![Ensembl](https://img.shields.io/badge/ENSEMBL-18181b?style=for-the-badge)](https://www.ensembl.org/)
+[![ExPASy](https://img.shields.io/badge/EXPASY-18181b?style=for-the-badge)](https://www.expasy.org/)
+[![STRING](https://img.shields.io/badge/STRING-18181b?style=for-the-badge)](https://string-db.org/)
+[![Biopython](https://img.shields.io/badge/BIOPYTHON-18181b?style=for-the-badge&logo=python&logoColor=d4d4d8)](https://biopython.org/)
 
 </td>
 <td width="50%" valign="top">
@@ -198,13 +195,13 @@ Applying machine learning and data-driven approaches to structural and molecular
 
 </div>
 
-[![TensorFlow](https://img.shields.io/badge/TENSORFLOW-166534?style=for-the-badge&logo=tensorflow&logoColor=d1fae5)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PYTORCH-166534?style=for-the-badge&logo=pytorch&logoColor=d1fae5)](https://pytorch.org/)
-[![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-166534?style=for-the-badge&logo=scikitlearn&logoColor=d1fae5)](https://scikit-learn.org/)
-[![NumPy](https://img.shields.io/badge/NUMPY-166534?style=for-the-badge&logo=numpy&logoColor=d1fae5)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/PANDAS-166534?style=for-the-badge&logo=pandas&logoColor=d1fae5)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-166534?style=for-the-badge)](https://matplotlib.org/)
-[![Plotly](https://img.shields.io/badge/PLOTLY-166534?style=for-the-badge&logo=plotly&logoColor=d1fae5)](https://plotly.com/)
+[![TensorFlow](https://img.shields.io/badge/TENSORFLOW-3f3f46?style=for-the-badge&logo=tensorflow&logoColor=d4d4d8)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PYTORCH-3f3f46?style=for-the-badge&logo=pytorch&logoColor=d4d4d8)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-3f3f46?style=for-the-badge&logo=scikitlearn&logoColor=d4d4d8)](https://scikit-learn.org/)
+[![NumPy](https://img.shields.io/badge/NUMPY-3f3f46?style=for-the-badge&logo=numpy&logoColor=d4d4d8)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/PANDAS-3f3f46?style=for-the-badge&logo=pandas&logoColor=d4d4d8)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-3f3f46?style=for-the-badge)](https://matplotlib.org/)
+[![Plotly](https://img.shields.io/badge/PLOTLY-3f3f46?style=for-the-badge&logo=plotly&logoColor=d4d4d8)](https://plotly.com/)
 
 </td>
 </tr>
@@ -212,10 +209,10 @@ Applying machine learning and data-driven approaches to structural and molecular
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=15000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Tools+are+instruments+%C2%B7+Biological+insight+is+the+objective%C2%B7"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=15000&color=d4d4d8&center=true&vCenter=true&width=1000&height=28&lines=Tools+are+instruments+%C2%B7+Biological+insight+is+the+objective%C2%B7"/>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d0d0d,50:52525b,100:0d0d0d" alt="" width="100%"/>
 
 <div align="center">
 
@@ -226,11 +223,10 @@ Applying machine learning and data-driven approaches to structural and molecular
 <img
   width="650"
   src="./photos/Masked%20Researcher%E2%80%99s%20Midnight%20Workstation.png"
-  alt="Emerald masked researcher at a workstation"
+  alt="Masked researcher at a workstation"
 />
 
 </div>
 <p align="center">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Eswar-mse/Eswar-mse/output/snake-dark.svg" />
 </p>
-
